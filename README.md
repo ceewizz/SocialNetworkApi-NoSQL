@@ -47,4 +47,4 @@ Made by Chris Huynh
 ## Links
 Github Repo: https://github.com/ceewizz/SocialNetworkApi-NoSQL
 
-![alt text](<ss/Screenshot 2024-02-21 234236.png>)
+![alt text](ss/ss.png)
